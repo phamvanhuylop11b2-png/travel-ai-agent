@@ -1,0 +1,53 @@
+[
+  {
+    "id": "HT-01",
+    "name": "Khách sạn Hồ Núi Cốc Pearl",
+    "type": "hotel",
+    "location": "Hồ Núi Cốc, Đại Từ, Thái Nguyên",
+    "price_vnd": 750000,
+    "available_units": 5,
+    "rating": 4.6,
+    "description": "Khách sạn view trực diện Hồ Núi Cốc, cách bến thuyền 300m, miễn phí ăn sáng."
+  },
+  {
+    "id": "HT-02",
+    "name": "Núi Cốc Eco Resort & Homestay",
+    "type": "hotel",
+    "location": "Khu du lịch Hồ Núi Cốc, Thái Nguyên",
+    "price_vnd": 950000,
+    "available_units": 3,
+    "rating": 4.8,
+    "description": "Khu nghỉ dưỡng sinh thái yên tĩnh gần Hồ Núi Cốc, có bể bơi và khu BBQ."
+  },
+  {
+    "id": "HT-03",
+    "name": "Khách sạn Đông Á Plaza Thái Nguyên",
+    "type": "hotel",
+    "location": "Trung tâm TP. Thái Nguyên",
+    "price_vnd": 1200000,
+    "available_units": 8,
+    "rating": 4.5,
+    "description": "Khách sạn 4 sao trung tâm thành phố, cách Hồ Núi Cốc khoảng 15km."
+  },
+  {
+    "id": "TR-01",
+    "name": "Tour Khám Phá Hồ Núi Cốc & Đồi Chè Tân Cương 1 Ngày",
+    "type": "tour",
+    "location": "Hồ Núi Cốc - Tân Cương, Thái Nguyên",
+    "price_vnd": 650000,
+    "available_units": 12,
+    "rating": 4.9,
+    "description": "Bao gồm vé du thuyền Hồ Núi Cốc, tham quan vùng chè Tân Cương và ăn trưa đặc sản."
+  },
+  {
+    "id": "TR-02",
+    "name": "Tour Trải Nghiệm Văn Hóa Chè & Suối Mỏ Gà 2N1Đ",
+    "type": "tour",
+    "location": "Võ Nhai - Tân Cương, Thái Nguyên",
+    "price_vnd": 1450000,
+    "available_units": 0,
+    "rating": 4.7,
+    "description": "Tour 2 ngày 1 đêm khám phá hang Phượng Hoàng, suối Mỏ Gà và trải nghiệm sao chè."
+  }
+]
+

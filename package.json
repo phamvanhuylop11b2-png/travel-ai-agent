@@ -1,0 +1,20 @@
+{
+  "name": "test-llm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "POC Tuan 1 - Nghien cuu LLM, API tim kiem va Function Calling cho he thong tu van & dat dich vu du lich",
+  "scripts": {
+    "start": "node --env-file=.env index.mjs",
+    "fc": "node --env-file=.env function-calling.mjs",
+    "fc:demo": "node --env-file=.env function-calling.mjs --demo",
+    "fc:weather": "node --env-file=.env function-calling.mjs --ask \"Thời tiết tại Hồ Núi Cốc, Thái Nguyên hôm nay thế nào và có phù hợp để đi tham quan ngoài trời không?\"",
+    "search": "node --env-file=.env search.mjs",
+    "agent:demo": "node --env-file=.env agent-demo.mjs",
+    "test:decision": "node --env-file=.env test-decision.mjs",
+    "test:error": "node --env-file=.env test-error.mjs",
+    "demo:fc": "node --env-file=.env demo-fc.mjs",
+    "test": "node test-tools.mjs"
+  }
+}
+
